@@ -1,1 +1,1 @@
-SELECT * FROM "User" ORDER BY id DESC;
+SELECT * FROM "Users" ORDER BY id DESC;

@@ -1,1 +1,1 @@
-SELECT * FROM "User" JOIN "announcements" ON "User".id = owner_id;
+SELECT * FROM "Users" JOIN "announcements" ON "Users".id = owner_id;

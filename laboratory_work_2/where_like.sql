@@ -1,1 +1,1 @@
-SELECT * FROM "User" WHERE name LIKE 'K%';
+SELECT * FROM "Users" WHERE name LIKE 'K%';

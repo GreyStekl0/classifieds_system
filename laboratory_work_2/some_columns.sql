@@ -1,1 +1,1 @@
-SELECT name, phone_number FROM "User";
+SELECT name, phone_number FROM "Users";

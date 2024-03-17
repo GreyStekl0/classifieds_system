@@ -1,0 +1,4 @@
+SELECT id
+FROM "Users"
+ORDER BY id ASC
+LIMIT 1;
