@@ -1,0 +1,9 @@
+SELECT COUNT(id)
+FROM "Users"
+WHERE id > 1;
+
+SELECT COUNT(id)
+FROM "Users";
+
+SELECT COUNT(DISTINCT email)
+FROM "Users";

@@ -1,4 +1,0 @@
-SELECT id
-FROM "Users"
-ORDER BY id DESC
-LIMIT 1;

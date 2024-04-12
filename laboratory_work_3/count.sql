@@ -1,3 +1,0 @@
-SELECT COUNT(*)
-FROM "Users"
-WHERE id > 1;

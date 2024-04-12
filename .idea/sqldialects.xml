@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/laboratory_work_4/10.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/laboratory_work_4/1_View_with_nested_query.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/laboratory_work_4/2_Grouped_view.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/laboratory_work_4/3.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/laboratory_work_4/4_changeable_representation.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/laboratory_work_4/5.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/laboratory_work_4/6.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/laboratory_work_4/7.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/laboratory_work_4/8.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/laboratory_work_4/9.sql" dialect="PostgreSQL" />
     <file url="PROJECT" dialect="PostgreSQL" />
   </component>
 </project>

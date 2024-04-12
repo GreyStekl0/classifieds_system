@@ -1,2 +1,2 @@
-SELECT MIN(id)
+SELECT MIN(text)
 FROM announcements;

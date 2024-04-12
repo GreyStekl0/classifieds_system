@@ -1,2 +1,2 @@
-SELECT MAX(id)
+SELECT MAX(text)
 FROM announcements;

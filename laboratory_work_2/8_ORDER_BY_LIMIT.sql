@@ -1,0 +1,1 @@
+SELECT * FROM "announcements" ORDER BY id LIMIT 5;
